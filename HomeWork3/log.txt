@@ -1,0 +1,61 @@
+dimov.k: привет мир
+dimov.k: 1
+dimov.k: 2
+dimov.k: 3
+dimov.k: 4
+dimov.k: 5
+dimov.k: 6
+dimov.k: 7
+dimov.k: 8
+dimov.k: 9
+dimov.k: 0
+dimov.k: 54
+dimov.k: 54
+dimov.k: 64
+dimov.k: 4
+dimov.k: 6
+dimov.k: 7
+dimov.k: 8
+dimov.k: 9
+dimov.k: 45о
+dimov.k: рпо
+dimov.k: оано
+dimov.k: аино
+dimov.k: оатен
+dimov.k: анота
+dimov.k: аноааанкет6ке
+Socket created
+Socket ready
+[15:09:45] Server: тест connected
+dimov.k: как дела?
+[15:09:51] тест: как дела?
+dimov.k: я вот домашку делаю, вроде тоже путем
+[15:10:03] тест: я вот домашку делаю, вроде тоже путем
+Socket created
+Socket ready
+[15:10:24] Server: vasya connected
+[15:10:24] Server: vasya connected
+Вася: Привет!
+[15:10:38] vasya: Привет!
+[15:10:38] vasya: Привет!
+dimov.k: Доров!
+[15:10:46] тест: Доров!
+[15:10:46] тест: Доров!
+Вася: как дела?
+[15:11:08] vasya: как дела?
+[15:11:08] vasya: как дела?
+Вася: домашка получилась?
+[15:11:14] vasya: домашка получилась?
+[15:11:14] vasya: домашка получилась?
+dimov.k: Да вот, вроде заканчиваю
+[15:11:25] dimov.k: Да вот, вроде заканчиваю
+[15:11:25] dimov.k: Да вот, вроде заканчиваю
+dimov.k: Что то, да работает
+[15:11:35] dimov.k: Что то, да работает
+[15:11:35] dimov.k: Что то, да работает
+Вася: ну и отлично!
+[15:11:40] vasya: ну и отлично!
+[15:11:40] vasya: ну и отлично!
+[15:11:46] Server: vasya disconnected
+Socket stopped
+Socket stopped
